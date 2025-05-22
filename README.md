@@ -1,2 +1,2 @@
 # graduation-project
-Project for my last year in collage
+E-Commerce Project for my last year in collage
